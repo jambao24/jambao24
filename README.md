@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @jambao24, a MS in Computer Science graduate from Portland State University.
+- 👋 Hi, I’m @jambao24, a MS in Computer Science graduate from Portland State University and Husky alumnus.
 - 👀 I’m interested in data science, data visualization/engineering, machine learning, bioinformatics, and climate-related jobs.
-- 🌱 I’m currently learning Selenium, Pytorch, and Front-End Development libraries
+- 🌱 I’m currently learning Selenium, Pytorch, Front-End Development libraries, and Azure tools.
 - 💞️ I’m looking to collaborate on creating a climate map using my own climate classification system and publicly available datasets.
 - 📫 How to reach me: jambao4324@gmail.com
 
